@@ -1,0 +1,9 @@
+i use Redux.js for state app, react-router.js for routing app, react.js for reactive and fast app,
+you can run this app with comand yarn install and yarn start.
+For fast styling app i use react-semantic.ui
+
+P.S: i think for more productive developing for this kind of app we can use mobX.js
+
+
+i use cypress for n2n tests because i think it more prodactive then unit and another method testing for Front-end
+if you want start tests you should start server yarn start and then you can start yarn test

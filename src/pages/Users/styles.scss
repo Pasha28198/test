@@ -1,0 +1,19 @@
+.weatherBlock {
+    margin: 0 auto;
+    height: 662px;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 13px 19px;
+    max-width: 942px;
+
+    &>p {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 26px;
+        margin-bottom: 33px;
+        color: #000000;
+    }
+}
